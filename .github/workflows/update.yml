@@ -1,6 +1,6 @@
 name: update
 on: push
-//FH90at460_tDfxVkYf5n2ug87mDKLB6nfOHZYPxA 
+
 jobs:
   update:
     name: EAS Update
